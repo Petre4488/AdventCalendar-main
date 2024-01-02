@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/AdventCalendar/static/js/main.4d1f5c95.chunk.js",
+    "main.js.map": "/AdventCalendar/static/js/main.4d1f5c95.chunk.js.map",
+    "runtime~main.js": "/AdventCalendar/static/js/runtime~main.feed173c.js",
+    "runtime~main.js.map": "/AdventCalendar/static/js/runtime~main.feed173c.js.map",
+    "static/js/2.59d78f4f.chunk.js": "/AdventCalendar/static/js/2.59d78f4f.chunk.js",
+    "static/js/2.59d78f4f.chunk.js.map": "/AdventCalendar/static/js/2.59d78f4f.chunk.js.map",
+    "index.html": "/AdventCalendar/index.html",
+    "precache-manifest.040d2255e9f6260e4a25cfc9725edf15.js": "/AdventCalendar/precache-manifest.040d2255e9f6260e4a25cfc9725edf15.js",
+    "service-worker.js": "/AdventCalendar/service-worker.js",
+    "static/media/1.jpg": "/AdventCalendar/static/media/1.db2119c1.jpg",
+    "static/media/10.jpg": "/AdventCalendar/static/media/10.55c131d5.jpg",
+    "static/media/2.jpg": "/AdventCalendar/static/media/2.55c131d5.jpg",
+    "static/media/3.jpg": "/AdventCalendar/static/media/3.9a52c90b.jpg",
+    "static/media/4.jpg": "/AdventCalendar/static/media/4.9a52c90b.jpg",
+    "static/media/5.jpg": "/AdventCalendar/static/media/5.db2119c1.jpg",
+    "static/media/6.jpg": "/AdventCalendar/static/media/6.55c131d5.jpg",
+    "static/media/7.jpg": "/AdventCalendar/static/media/7.db2119c1.jpg",
+    "static/media/8.jpg": "/AdventCalendar/static/media/8.55c131d5.jpg",
+    "static/media/9.jpg": "/AdventCalendar/static/media/9.bc1b3c3b.jpg",
+    "static/media/calendar_backdrop.jpg": "/AdventCalendar/static/media/calendar_backdrop.b7975bb9.jpg",
+    "static/media/door_backdrop.jpg": "/AdventCalendar/static/media/door_backdrop.2443bb2f.jpg"
+  }
+}
